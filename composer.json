@@ -1,5 +1,5 @@
 {
-    "name": "crodas/Haanga",
+    "name": "phpalchemy/haanga",
     "description": "Template compiler for PHP, Django-style (as much as possible). Pretty efficent by avoiding to have anything at run-time.",
     "authors": [
         {
